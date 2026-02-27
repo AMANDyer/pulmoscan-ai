@@ -44,7 +44,7 @@ pulmoscan-ai/
 
 ```bash
 # 1. Clone
-git clone https://github.com/yourusername/pulmoscan-ai.git
+git clone https://github.com/AMANDyer/pulmoscan-ai.git
 cd pulmoscan-ai
 
 # 2. Add your trained model
