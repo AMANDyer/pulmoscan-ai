@@ -1,0 +1,35 @@
+{
+  "total": 4,
+  "normal": 1,
+  "tb": 3,
+  "history": [
+    {
+      "timestamp": "2026-02-27T17:41:55.452653",
+      "result": "NORMAL",
+      "confidence": 0.5602,
+      "filename": "xray.jpg",
+      "inference_ms": 1723.9
+    },
+    {
+      "timestamp": "2026-02-27T17:42:42.835591",
+      "result": "TUBERCULOSIS",
+      "confidence": 0.7636,
+      "filename": "xray.jpg",
+      "inference_ms": 165.7
+    },
+    {
+      "timestamp": "2026-02-27T17:43:26.709341",
+      "result": "TUBERCULOSIS",
+      "confidence": 0.7636,
+      "filename": "xray.jpg",
+      "inference_ms": 171.0
+    },
+    {
+      "timestamp": "2026-02-27T12:30:11.305658",
+      "result": "TUBERCULOSIS",
+      "confidence": 0.7636,
+      "filename": "xray.jpg",
+      "inference_ms": 3105.6
+    }
+  ]
+}
