@@ -17,8 +17,8 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import numpy as np
 
-API = "http://backend:8000"
-#API = "http://127.0.0.1:8000"
+#API = "http://backend:8000"
+API = "http://127.0.0.1:8000"
 
 st.set_page_config(page_title="PulmoScan AI", page_icon="🫁", layout="wide", initial_sidebar_state="collapsed")
 
